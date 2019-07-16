@@ -11,3 +11,6 @@ https://github.com/MorvanZhou/Tensorflow-Tutorial
 
 4.TensorFlow-Slim image classification model library
 https://github.com/tensorflow/models/tree/master/research/slim
+
+5、Caffe in a Day Tutorial
+https://docs.google.com/presentation/d/1HxGdeq8MPktHaPb-rlmYYQ723iWzq9ur6Gjo71YiG0Y/edit#slide=id.gc2fcdcce7_216_0
