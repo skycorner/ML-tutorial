@@ -8,3 +8,6 @@ http://cs229.stanford.edu/notes/
 
 3、莫凡python2017 tutorial
 https://github.com/MorvanZhou/Tensorflow-Tutorial
+
+4.TensorFlow-Slim image classification model library
+https://github.com/tensorflow/models/tree/master/research/slim
