@@ -14,3 +14,6 @@ https://github.com/tensorflow/models/tree/master/research/slim
 
 5、Caffe in a Day Tutorial
 https://docs.google.com/presentation/d/1HxGdeq8MPktHaPb-rlmYYQ723iWzq9ur6Gjo71YiG0Y/edit#slide=id.gc2fcdcce7_216_0
+
+6、cs231n-tutorial
+http://cs231n.stanford.edu/2017/syllabus.html
