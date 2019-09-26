@@ -20,3 +20,6 @@ http://cs231n.stanford.edu/2017/syllabus.html
 
 7、faiss一个用于高效相似性搜索和密集矢量聚类的库。
 https://github.com/facebookresearch/faiss
+
+mrec用于支持推荐系统的开发和评估
+https://github.com/mendeley/mrec
