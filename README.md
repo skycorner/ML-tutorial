@@ -17,3 +17,6 @@ https://docs.google.com/presentation/d/1HxGdeq8MPktHaPb-rlmYYQ723iWzq9ur6Gjo71Yi
 
 6、cs231n-tutorial
 http://cs231n.stanford.edu/2017/syllabus.html
+
+7、faiss一个用于高效相似性搜索和密集矢量聚类的库。
+https://github.com/facebookresearch/faiss
